@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hcotfnP4IbCOCkUquZT1eDGP9K" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -129,10 +132,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="165" key="SettingsEditor/1920.-340.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1600319982580" />
-    <state x="-7" y="0" width="974" height="1047" key="dock-window-1" timestamp="1600327874136">
+    <state x="-7" y="0" width="974" height="1047" key="dock-window-1" timestamp="1600333621042">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="-7" y="0" width="974" height="1047" key="dock-window-1/1920.-340.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1600327874136" />
+    <state x="-7" y="0" width="974" height="1047" key="dock-window-1/1920.-340.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1600333621042" />
     <state x="143" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1600327208722">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
